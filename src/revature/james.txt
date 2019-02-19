@@ -1,0 +1,5 @@
+You have $0.00 in your account.
+100.0 deposited into your acount. Total amount: 100.0
+20.0 withdrawn from account. Total amount left: 80.0
+1e+145 deposited into your acount. Total amount: 1e+145
+12.0 withdrawn from account. Total amount left: 1e+145
